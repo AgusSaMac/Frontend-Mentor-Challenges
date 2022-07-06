@@ -52,7 +52,7 @@ I need to focus on learning more about the posible values diferent attributes ca
 ### Useful resources
 
 - [Flexbox Guide](https://flaviocopes.com/flexbox/) - This site helped me to better understand how flexbox works and how its attributes work.
-- [Choose CSS Units](https://getflywheel.com/layout/choose-css-unit-create-better-site-layouts-how-to/) - Article descriving the types of units available. As a newbie this was a Godsend as I am still learning the basics. (05/07/22)
+- [Choose CSS Units](https://getflywheel.com/layout/choose-css-unit-create-better-site-layouts-how-to/) - Article describing the types of units available. As a newbie this was a Godsend as I am still learning the basics. (05/07/22)
 
 
 ## Author
